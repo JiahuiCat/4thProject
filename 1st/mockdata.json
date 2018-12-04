@@ -1,0 +1,104 @@
+{
+  "self": {
+    "_id": 0,
+    "avatar": "/static/images/time3.jpeg",
+    "circle":"static/images/circleOne.jpg",
+    "birthday": "29/11/2018",
+    "name": "仙女山的月亮",
+    "gender": "female",
+    "email": "13232860005@163.com",
+    "phone": "13232860005",
+    "address": "广东=>佛山",
+    "explain": "佛山真美丽",
+    "about": "ccc"
+  },
+  "friend": [
+    {
+      "_id": 1,
+      "avatar": "/static/images/timg1.png",
+      "circle":"static/images/circleTwo.jpg",
+      "birthday": "11/3/95",
+      "name": "小清新",
+      "gender": "female",
+      "email": "13232860000@163.com",
+      "phone": "13232860000",
+      "address": "上海=>浦东",
+      "explain": "上海真美丽",
+      "about": "ccc"
+    },
+    {
+      "_id": 2,
+      "avatar": "/static/images/timg2.jpeg",
+      "circle":"static/images/circleThree.jpeg",
+      "birthday": "21/6/97",
+      "name": "森系",
+      "gender": "female",
+      "email": "13232860001@163.com",
+      "phone": "13232860001",
+      "address": "广东=>深圳",
+      "explain": "上海真美丽",
+      "about": "ccc"
+    },
+    {
+      "_id": 3,
+      "avatar": "/static/images/timg.png",
+      "circle":"static/images/circleFour.jpeg",
+      "birthday": "3/3/99",
+      "name": "嘉瀚花园物业服务中心",
+      "gender": "female",
+      "email": "13232860002@163.com",
+      "phone": "13232860002",
+      "address": "广东=>江门",
+      "explain": "上海真美丽",
+      "about": "ccc"
+    },
+    {
+      "_id": 4,
+      "avatar": "/static/images/img5.jpg",
+      "birthday": "9/2/08",
+      "name": "Meatball",
+      "gender": "female",
+      "email": "13232860006@163.com",
+      "phone": "13232860006",
+      "address": "广东=>珠海",
+      "explain": "上海真美丽",
+      "about": "ccc"
+    },
+    {
+      "_id": 5,
+      "avatar": "/static/images/imgFour.jpg",
+      "birthday": "9/2/08",
+      "name": "YifangCat",
+      "gender": "female",
+      "email": "13232860006@163.com",
+      "phone": "13232860006",
+      "address": "广东=>中山",
+      "explain": "上海真美丽",
+      "about": "ccc"
+    },
+    {
+      "_id": 6,
+      "avatar": "/static/images/img6.jpg",
+      "birthday": "9/2/08",
+      "name": "MeiLing",
+      "gender": "female",
+      "email": "13232860006@163.com",
+      "phone": "13232860006",
+      "address": "广东=>东莞",
+      "explain": "上海真美丽",
+      "about": "ccc"
+    },
+    {
+      "_id": 7,
+      "avatar": "/static/images/time7.jpeg",
+      "birthday": "9/2/08",
+      "name": "Min090",
+      "gender": "female",
+      "email": "13232860006@163.com",
+      "phone": "13232860006",
+      "address": "广东=>广州",
+      "explain": "上海真美丽",
+      "about": "ccc"
+    }
+  ]
+}

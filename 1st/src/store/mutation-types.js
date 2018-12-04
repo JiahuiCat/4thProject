@@ -1,0 +1,14 @@
+export const RECEVIVE_DATA='RECEVIVE_DATA'//新的方法
+export const CHANGE_NAV_TITLE='CHANGE_NAV_TITLE'
+export const REFRESH_AJAX='REFRESH_AJAX'
+export const DELETE_MSG_LIST="DELETE_MSG_LIST"
+export const TOGGLE_CHAT="TOGGLE_CHAT"
+export const TOGGLE_MINE="TOGGLE_MINE"//个人页面显示隐藏
+export const TOGGLE_DELETE="TOGGLE_DELETE"//个人主页关闭
+export const RECEVIVE_USER_ID="RECEVIVE_USER_ID"//friends
+export const RECEVIVE_CURRENT_USER="RECEVIVE_CURRENT_USER"//当前聊天对象
+export const ADD_MESSAGE ='ADD_MESSAGE'//发送信息的方法
+export const TOGGLE_SREACH="TOGGLE_SREACH"//搜索页面
+export const TOGGLE_CIRCLE="TOGGLE_CIRCLE"//朋友圈显示和隐藏
+export const TOGGLE_CHAT_MSG="TOGGLE_CHAT_MSG"
+export const TOGGLE_WALLET="TOGGLE_WALLET"
